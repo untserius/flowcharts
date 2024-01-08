@@ -13,7 +13,7 @@ public class stringBufferExample {
         StringBuffer sb3 = new StringBuffer(30);
 
         sb.append("Hello!");
-        sb.append(" My name is Serius");
+        sb.append(" My name is Java");
 
         sb.insert(5, " World");
         sb.replace(0, 5, "Hi");
