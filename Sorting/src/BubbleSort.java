@@ -6,6 +6,8 @@ public class BubbleSort {
         int[] arr = {-1, 4, 23, -50, 0};
         bubble(arr);
         System.out.println(Arrays.toString(arr));
+
+        System.out.println(arr.getClass());
     }
 
     static void bubble(int[] arr) {
@@ -25,7 +27,7 @@ public class BubbleSort {
             }
 
             // if you did not swap for a particular value of i, it means array is sorted. Hence, break.
-            if (swapped == false) {
+            if (!swapped) {
                 break;
             }
         }
