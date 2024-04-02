@@ -5,9 +5,7 @@ public class BubbleSort {
 
         int[] arr = {-1, 4, 23, -50, 0};
         bubble(arr);
-        System.out.println(Arrays.toString(arr));
-
-        System.out.println(arr.getClass());
+        System.out.println(arr);
     }
 
     static void bubble(int[] arr) {

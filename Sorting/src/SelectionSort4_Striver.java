@@ -21,6 +21,6 @@ public class SelectionSort4_Striver {
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 5, 6, 87, 64, 42, 10};
 
-        System.out.println(Arrays.toString(ss(arr)));
+        System.out.println((ss(arr)));
     }
 }

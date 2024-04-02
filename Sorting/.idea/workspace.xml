@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d741e108-01ad-4c54-bb2d-f1c998819b50" name="Changes" comment="practice files">
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/abstractpractice/ChildClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/abstractpractice/I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/abstractpractice/ParentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/diamondproblem/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/diamondproblem/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/diamondproblem/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/diamondproblem/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/diamondproblem/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/hybridInheritance/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/hybridInheritance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/hybridInheritance/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/hybridInheritance/ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/out/production/src/hybridInheritance/ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear Search Algo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/out/production/Recursion/WhatIsThis/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/out/production/Recursion/WhatIsThis/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/BubbleSort2_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/BubbleSort_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/DefaultSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/InsertionSort_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/LargestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/MergeSort_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/SecondAndThirdLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/SelectionSort2_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/SelectionSort3_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/SelectionSort4_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/SelectionSort_Striver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/StringExplain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeepToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExplain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/Capacity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/CodingQuestions/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/CodingQuestions/CountWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/CodingQuestions/MergeSortedArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/CodingQuestions/SecondLargestNo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/CodingQuestions/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/CodingQuestions/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/ImmutableClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/ProveImmutability.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/SingletonPattern/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/SingletonPattern/MethodsExplain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/SingletonPattern/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/Spaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/SplitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/out/production/Strings and StringBuilder/StringJoinerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/Strings and StringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Capacity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/CodingQuestions/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/CodingQuestions/CountWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/CodingQuestions/MergeSortedArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/CodingQuestions/SecondLargestNo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/CodingQuestions/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/CodingQuestions/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Comparisons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/ImmutableClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Operators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Performanece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/PrettyPrinting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/ProveImmutability.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/RandomStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/SB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/SingletonPattern/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/SingletonPattern/MethodsExplain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/SingletonPattern/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Spaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/SplitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/StringJoinerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/Strings and StringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings and StringBuilder/src/out/production/Strings and StringBuilder/stringBufferExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSort_Striver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort_Striver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelectionSort4_Striver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectionSort4_Striver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and StringBuilder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings and StringBuilder/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;untserius&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b9ba9d5c-6b3e-42e9-9056-7d9828e133fe" />
+        <option name="url" value="https://github.com/untserius/Java-DSA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2J8abO4T5VZSsZFVA4lGjAEHcGD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeepToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GFG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort_Striver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondAndThirdLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SelectionSort4_Striver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExplain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverBubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverBubbleSort2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverInsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverMergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverSelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverSelectionSort2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverSelectionSort3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StriverSelectionSort4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Java/Kunal K - JAVA DSA Course/Recursion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.A">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
+      <module name="Sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort2_Striver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort2_Striver" />
+      <module name="Sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.BubbleSort2_Striver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d741e108-01ad-4c54-bb2d-f1c998819b50" name="Changes" comment="" />
+      <created>1671462236590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671462236590</updated>
+    </task>
+    <task id="LOCAL-00001" summary="practice files">
+      <option name="closed" value="true" />
+      <created>1710849953436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710849953436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice files" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice files" />
+  </component>
+</project>
